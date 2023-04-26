@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=viopsa233&layout=compact&theme=tokyonight)
 
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=viopsa233&repo=aitesters-forum-backup&theme=dark)
+
 
