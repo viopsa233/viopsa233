@@ -7,7 +7,7 @@
 
 截至目前该用户主页访问量(话说真的会有人访问我的主页吗.....)
 
-![GitHud用户主页访问量](https://komarev.com/ghpvc/?username=viopsa233)
+![GitHud用户主页访问量](https://count.getloli.com/get/@viopsa233?theme=rule34)
 
 
 ### 我正在听
