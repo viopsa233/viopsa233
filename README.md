@@ -5,10 +5,11 @@
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=viopsa233&layout=compact&theme=tokyonight)
 
 
-截至目前该用户主页访问量(话说真的会有人访问我的主页吗.....)
+<!--
+**viopsa233/viopsa233** 截至目前该用户主页访问量(话说真的会有人访问我的主页吗.....)
 
 ![GitHud用户主页访问量](https://count.getloli.com/get/@viopsa233?theme=rule34)
-
+-->
 
 ### 我正在听
 
