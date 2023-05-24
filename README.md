@@ -1,6 +1,4 @@
 ### Hi there 👋
-![网页捕获_22-5-2023_195237_www bing com](https://github.com/viopsa233/viopsa233/assets/118115208/ed307180-4a9e-416c-930e-c9c3e8d54b63)
-
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=viopsa233&show_icons=true&theme=tokyonight)
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=viopsa233&layout=compact&theme=tokyonight)
