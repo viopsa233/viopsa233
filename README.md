@@ -10,9 +10,6 @@
 ![GitHud用户主页访问量](https://count.getloli.com/get/@viopsa233?theme=rule34)
 -->
 
-### I am Listening to
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31rhxxkbifvfknvnuimmhm5fqzya&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31rhxxkbifvfknvnuimmhm5fqzya&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
 <!--
 **viopsa233/viopsa233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
